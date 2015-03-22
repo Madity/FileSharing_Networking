@@ -1,5 +1,3 @@
-Computer Networks : Assignment 2
----------------------------------
 Socket Programming :
 	Compiling code : gcc server_client.c -lcrypto -lssl
 	To run code : ./a.out
